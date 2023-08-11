@@ -1,0 +1,60 @@
+div>p{
+	display:contents;
+	color:blue;
+	font-size: 25px;
+	font-family: arial;
+}
+
+button{
+	background-color:aqua;
+	width: 100px;
+	height: 50px;
+	border: 3px solid black;
+	border-radius: 10px;
+	color:blue;
+	font-size: 20px;
+	padding: 10px;
+	margin: 20px;
+}
+
+#h2{
+	color: red;
+	text-align:center;
+	font-size:25px;
+	font-family: arial;
+	border: 3px dotted black;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+div{
+	width: 300px;
+	height:auto;
+	background-color: yellow;
+	border: 3px;
+	padding: 30px;
+	margin: 20px;
+	border-radius: 80px;
+	text-align:center;
+}
+
+#input{
+	display:contents;
+	width: 100px;
+	height:auto;
+	text-align:center;
+	font-size:25px;
+	font-family: arial;
+	color:blue;
+}
+
+#input>input{
+	height:auto;
+	width:80px;
+	padding:10px;
+	border:none;
+	background-color:yellow;
+	font-size:25px;
+	font-family: arial;
+	color:blue;
+}
